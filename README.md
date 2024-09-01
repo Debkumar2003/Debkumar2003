@@ -27,11 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debkumar2003&show_icons=true&locale=en" alt="debkumar2003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debkumar2003&" alt="debkumar2003" /></p>src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aryan_62"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryan_62" /></a><a href="https://ko-fi.com/aryan-priyanshu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aryan-priyanshu" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanpriyanshu&show_icons=true&locale=en&layout=compact" alt="aryanpriyanshu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanpriyanshu&show_icons=true&locale=en" alt="aryanpriyanshu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debkumar2003&" alt="debkumar2003" />
