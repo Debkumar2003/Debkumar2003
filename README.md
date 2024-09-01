@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryan Raj</h1>
-<h3 align="center">A passionate Mern Stack developer</h3>
+<h1 align="center">Hi 👋, I'm Debkumar Mandal</h1>
+<h3 align="center">A passionate Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanpriyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="aryanpriyanshu" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *React.js,PHP*
 
-- 📫 How to reach me *aryanpriyanshu146@gmail.com*
+- 📫 How to reach me *debkumarmandal2003@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
